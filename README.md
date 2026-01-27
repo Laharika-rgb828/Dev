@@ -16,6 +16,12 @@ $What is ADK?
 ADK(Agent Development Kit):
     It is a software frame work that helps developers create intelligent agents capable of making decisions and performing task, automatically.
 
+four types in ADK :
+ 1.Web UI interfaces
+ 2.Server API
+ 3.Python API
+ 4.CLI interfaces
+
 Benefits of ADK:
   1. faster development 
   2. easy automation 
