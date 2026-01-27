@@ -11,3 +11,15 @@ $Mongoose installation
 6. loading your connection and then click connect button
 7. then click drive and finally click done button below.
 
+ADK(Agent Development Kit):
+    It is a software frame work that helps developers create intelligent agents capable of making decisions and performing task, automatically.
+
+Benefits of ADK:
+  1. faster development 
+  2. easy automation 
+  3. less manual effort
+  4. reusable agent logic
+  5. scalable Application 
+
+API(Application Programing Interface):
+   It is used for taken the data into database.it is mostly used in login,singup and registeration 
