@@ -22,4 +22,10 @@ Benefits of ADK:
   5. scalable Application 
 
 API(Application Programing Interface):
-   It is used for taken the data into database.it is mostly used in login,singup and registeration 
+   It is used for taken the data into database.it is mostly used in login,singup and registeration like.
+ It's like a Messenger between different Systems allowing them to talk to each other and share the data.
+Key points : 
+  1. APIs enable apps, services or systems to communicate and exchange data.(What It does)
+2.you send a request to an API,and it returns the data or response you need.(How It does)
+3. types are web APIs,Os APIs and library APIs etc.
+
